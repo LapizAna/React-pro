@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 65%;
+  }
+  
+  th, td {
+    border: 1px solid, rgb(33, 32, 32);
+    padding: 12px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2d9d9;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
